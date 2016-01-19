@@ -1,0 +1,2 @@
+defmodule Swain do
+end
